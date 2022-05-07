@@ -1,0 +1,1 @@
+from Exceptions.CustomExceptions import StaticObjectOnlyException
